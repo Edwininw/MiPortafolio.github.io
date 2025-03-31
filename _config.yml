@@ -1,4 +1,2 @@
-remote_theme: "raviriley/agency-jekyll-theme"
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+remote_theme: "jeromelachaud/freelancer-theme"
+
