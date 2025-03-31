@@ -1,2 +1,5 @@
-remote_theme: "jeromelachaud/freelancer-theme"
+theme: jekyll-theme-slate
+title: "Portafolio de Desarrollo"
+description: "Proyectos, ideas y más"
+
 
