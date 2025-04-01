@@ -1,6 +1,4 @@
-<p align="center">
-   Portafolio Personal
-</p>
+
 
 
 <p align="center">
