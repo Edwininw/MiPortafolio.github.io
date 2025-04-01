@@ -1,13 +1,10 @@
 # Configuración general del sitio
 title: "Portafolio de Edwin Miranda"
 description: "Un portafolio personal para mostrar mis proyectos y habilidades."
-url: "https://github.com/Edwininw/Miportafolio.github.io" # Cambia esto por la URL de tu sitio
+url: "https://Edwininw.github.io" # Cambia esto por la URL de tu sitio
 baseurl: "https://edwininw.github.io/MiPortafolio" # Si lo alojas en una subcarpeta, pon la ruta aquí
 
-# Configuración de redes sociales
-twitter_username: "tuusuario"
-github_username: "tuusuario"
-linkedin_username: "tuusuario"
+
 
 # Tema a utilizar
 theme: jekyll-theme-hyde
