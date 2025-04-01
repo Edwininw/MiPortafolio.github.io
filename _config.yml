@@ -24,7 +24,7 @@ author:
 
 # URL settings
 url: "https://klise.now.sh" #
-baseurl: "/PortafolioPersonal"  # Usa el nombre exacto de tu repositorio
+baseurl: "/MiPortafolio.github.io"  # Usa el nombre exacto de tu repositorio
 url: "https://edwininw.github.io"  # Tu dominio de GitHub Pages
 
 permalink: /:title/
