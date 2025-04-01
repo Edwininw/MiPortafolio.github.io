@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="/1728799422823.jfif" alt="Foto de Edwin Miranda" width="200"/>
+  <img src="1728799422823.jfif" alt="Foto de Edwin Miranda" width="200"/>
 </p>
 ## Acerca de mí
 
