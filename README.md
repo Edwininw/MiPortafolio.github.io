@@ -1,4 +1,7 @@
-# Portafolio Personal<center>
+# <p align="center">
+  # Portafolio Personal
+</p>
+
 
 <p align="center">
   <img src="/1728799422823.jfif" alt="Foto de Edwin Miranda" width="200"/>
