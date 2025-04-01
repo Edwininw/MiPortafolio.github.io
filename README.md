@@ -1,6 +1,8 @@
 # Edwin Miranda - Portafolio de Programador
 ![Texto alternativo](/1728799422823.jfif)
-
+<p align="center">
+  <img src="/1728799422823.jfif" alt="Foto de Edwin Miranda" width="200"/>
+</p>
 ## Acerca de mí
 
 ¡Hola! Soy **Edwin Miranda**, estudiante de Ingeniería de Sistemas e Informática en la Universidad Continental. Apasionado por la tecnología, especialmente en el desarrollo web, bases de datos y optimización de servidores. Me encanta crear soluciones eficientes y sostenibles.
