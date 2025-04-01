@@ -1,4 +1,5 @@
 # Edwin Miranda - Portafolio de Programador
+![Texto alternativo](/1728799422823.jfif)
 
 ## Acerca de mí
 
