@@ -1,62 +1,61 @@
-# 🌌 Bienvenido a Mi Portafolio Futurista 🚀  
+# Klisé
 
-> "El futuro pertenece a quienes creen en la belleza de sus sueños." - Eleanor Roosevelt  
+Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
+For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
 
-![Banner](assets/banner.png)  
+## Features
 
-## 🚀 Menú de Navegación  
-🔹 [Sobre Mí](#-sobre-mí)  
-🔹 [Proyectos](#-proyectos)  
-🔹 [Galería](#-galería)  
-🔹 [Contacto](#-contacto)  
+- [x] Light & Dark Mode support :waxing_crescent_moon:
+- [x] Customizable (using `.scss`)
+- [x] Responsive (desktop, tab and mobile)
+- [x] Mobile First Design
+- [x] SEO Optimized
+- [x] Images of post Organized ([`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles))
+- [x] Generate Sitemap ([`jekyll-sitemap`](https://github.com/jekyll/jekyll-sitemap))
+- [x] RSS Feed ([`jekyll-feed`](https://github.com/jekyll/jekyll-feed))
+- [x] Syntax Highlighter ([`rouge`](https://github.com/rouge-ruby/rouge))
+- [x] Next & Previous Post
+- [x] Comment layout, enable in frontmatter if you wish
+- [x] Google analytics
+- [x] HTML Minify ([`jekyll-compress-html`](https://github.com/penibelst/jekyll-compress-html))
+- [x] W3C **Validated**
+- [x] Lighthouse and PageSpeed **Passed**
 
----
+![Lighthouse Result](./lighthouse.png)
 
-## 👨‍💻 Sobre Mí  
-📌 **Nombre:** [Tu Nombre]  
-📌 **Especialidad:** [Tu Especialidad]  
-📌 **Ubicación:** 🌍 [Ciudad, País]  
-📌 **Pasiones:** IA 🤖 | Diseño UX/UI 🎨 | Desarrollo Web 💻  
+## Backlogs
 
-### 🖼️ Foto de Perfil  
-![Foto de Perfil](assets/perfil.jpg)  
+- [ ] Intergrated with PhotoSwipe.
+- [ ] Add schema.org meta information.
+- [ ] Transform class selector to BEM metodology.
 
-> 🌟 **Soy un apasionado del desarrollo y la tecnología.** Me encanta crear experiencias digitales innovadoras y funcionales.  
+## Installation
 
----
+Run local server:
 
-## 💡 Proyectos  
-Aquí algunos de mis proyectos más interesantes:  
+```bash
+$ git clone https://github.com/piharpi/jekyll-klise.git
+$ cd jekyll-klise
+$ bundle install
+$ bundle exec jekyll serve
+```
 
-### 1️⃣ **Proyecto Estelar** 🌠  
-📌 **Descripción:** Una plataforma futurista para IA conversacional.  
-📌 **Tecnologías:** Python, TensorFlow, React.  
-📌 **Enlace:** [Ver Proyecto 🚀](https://github.com/tuusuario/proyecto-estelar)  
+Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
 
-### 2️⃣ **Sistema de Inventarios Avanzado** 🏭  
-📌 **Descripción:** Un sistema de control de inventarios con automatización.  
-📌 **Tecnologías:** Node.js, MongoDB, Express.  
-📌 **Enlace:** [Ver Proyecto 🛠️](https://github.com/tuusuario/sistema-inventarios)  
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/piharpi/jekyll-klise) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise) [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=javascript-0000-jopapa#create/Microsoft.StaticApp)
 
----
+## Limitation
 
-## 🎨 Galería  
-### 📷 Imágenes y Diseños  
-| 🖼️ Concepto | 📌 Descripción |  
-|-------------|--------------|  
-| ![Diseño 1](assets/diseño1.png) | Diseño UX para una app de viajes 🚀 |  
-| ![Interfaz](assets/interfaz.png) | Interfaz futurista para una dashboard 💻 |  
+- Since [`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles#compatibility) plugin isn't supported by github pages, this cause will make your site problems, path broken or post images won't show up, you can host alternatively using likes [netlify.com](https://netlify.com), [vercel.com](https://vercel.com), [azure.com](https://docs.microsoft.com/azure/static-web-apps/publish-jekyll) or [surge.sh](https://surge.sh) services, which support 3rd party.
 
-### 📖 Mini Cómic  
-![Cómic](assets/comic.png)  
+## Contributing
 
----
+If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [contributing](./CONTRIBUTING.md) before PR.
 
-## 📞 Contacto  
-📧 **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
-🔗 **GitHub:** [github.com/tuusuario](https://github.com/tuusuario)  
-🌐 **Portafolio Web:** [tuweb.com](https://tuweb.com)  
+Yeaaa feel free to open a pull request.
+## Support
 
----
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7MJ4X) [![saweria.co](./assets/img/saweria-button.png)](https://saweria.co/piharpi)
+## License
 
-🚀 **Gracias por visitar mi portafolio. ¡Sigamos creando el futuro juntos!** 🌌  
+This project is open source and available under the [MIT License](LICENSE).
