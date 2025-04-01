@@ -1,75 +1,23 @@
-# 💻 **Portafolio Personal - Edwin Miranda**
+# Mediumish - Jekyll Theme
 
-## 📌 **Sobre Mí**
-¡Hola! Soy estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Continental**. Me apasiona la tecnología, la seguridad informática y el desarrollo web. 🚀
+[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
 
----
-## 📂 **Menú**
-📍 [Sobre Mí](#-sobre-mí)  
-📍 [Proyectos](#-proyectos)  
-📍 [Gráficos](#-gráficos)  
-📍 [Tablas](#-tablas)  
-📍 [Diseños](#-diseños)  
-📍 [Contacto](#-contacto)  
+![mediumish](assets/images/mediumish-jekyll-template.png)
 
----
 
-## 🔥 **Proyectos**
-- 🚀 **Sistema de Inventarios en GitHub**  
-  📌 Implementación de un sistema de gestión de inventarios con **Node.js** y **MongoDB**.
-- 🔐 **Análisis de Seguridad en Aplicaciones Web**  
-  📌 Uso de herramientas como **Burp Suite** y **OWASP ZAP**.
+### Copyright
 
----
+Copyright (C) 2019 Sal, https://www.wowthemes.net
 
-## 📊 **Gráficos**
-```mermaid
-pie title Distribución de Habilidades
-    "Desarrollo Web" : 40
-    "Seguridad Informática" : 30
-    "Bases de Datos" : 20
-    "Otros" : 10
-```
+**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
 
----
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-## 📋 **Tablas**
-| 💻 Habilidad | 📈 Nivel |
-|-------------|---------|
-| HTML & CSS  | ⭐⭐⭐⭐ |
-| JavaScript  | ⭐⭐⭐ |
-| Python      | ⭐⭐⭐⭐ |
-| SQL        | ⭐⭐⭐ |
+### Contribute
 
----
+1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
+2. Clone a copy of your fork on your local
+3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
+4. Make necessary changes, commit, push and open a pull request on GitHub.
 
-## 🎨 **Diseños y Cómic**
-```mermaid
-sequenceDiagram
-    participant Usuario
-    participant Sistema
-    Usuario->>Sistema: Iniciar sesión
-    Sistema->>Usuario: Autenticación exitosa
-    Usuario->>Sistema: Ver proyectos
-    Sistema->>Usuario: Muestra lista de proyectos
-```
-
-```mermaid
-gantt
-    title Desarrollo del Portafolio
-    section Planificación
-    Investigación y Diseño :done, des1, 2025-03-01, 2025-03-07
-    section Desarrollo
-    Creación de Contenido :active, dev1, 2025-03-08, 2025-03-15
-    Implementación Técnica :dev2, 2025-03-16, 2025-03-25
-    section Lanzamiento
-    Pruebas y Ajustes :dev3, 2025-03-26, 2025-03-30
-    Publicación :milestone, 2025-03-31
-```
-
----
-
-## 📩 **Contacto**
-📧 Email: [tuemail@example.com](mailto:tuemail@example.com)  
-🐙 GitHub: [github.com/tuusuario](https://github.com/tuusuario)  
-💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+Thank you!
