@@ -1,23 +1,62 @@
-# Mediumish - Jekyll Theme
+# 🌌 Bienvenido a Mi Portafolio Futurista 🚀  
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+> "El futuro pertenece a quienes creen en la belleza de sus sueños." - Eleanor Roosevelt  
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+![Banner](assets/banner.png)  
 
+## 🚀 Menú de Navegación  
+🔹 [Sobre Mí](#-sobre-mí)  
+🔹 [Proyectos](#-proyectos)  
+🔹 [Galería](#-galería)  
+🔹 [Contacto](#-contacto)  
 
-### Copyright
+---
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+## 👨‍💻 Sobre Mí  
+📌 **Nombre:** [Tu Nombre]  
+📌 **Especialidad:** [Tu Especialidad]  
+📌 **Ubicación:** 🌍 [Ciudad, País]  
+📌 **Pasiones:** IA 🤖 | Diseño UX/UI 🎨 | Desarrollo Web 💻  
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+### 🖼️ Foto de Perfil  
+![Foto de Perfil](assets/perfil.jpg)  
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+> 🌟 **Soy un apasionado del desarrollo y la tecnología.** Me encanta crear experiencias digitales innovadoras y funcionales.  
 
-### Contribute
+---
 
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
+## 💡 Proyectos  
+Aquí algunos de mis proyectos más interesantes:  
 
-Thank you!
+### 1️⃣ **Proyecto Estelar** 🌠  
+📌 **Descripción:** Una plataforma futurista para IA conversacional.  
+📌 **Tecnologías:** Python, TensorFlow, React.  
+📌 **Enlace:** [Ver Proyecto 🚀](https://github.com/tuusuario/proyecto-estelar)  
+
+### 2️⃣ **Sistema de Inventarios Avanzado** 🏭  
+📌 **Descripción:** Un sistema de control de inventarios con automatización.  
+📌 **Tecnologías:** Node.js, MongoDB, Express.  
+📌 **Enlace:** [Ver Proyecto 🛠️](https://github.com/tuusuario/sistema-inventarios)  
+
+---
+
+## 🎨 Galería  
+### 📷 Imágenes y Diseños  
+| 🖼️ Concepto | 📌 Descripción |  
+|-------------|--------------|  
+| ![Diseño 1](assets/diseño1.png) | Diseño UX para una app de viajes 🚀 |  
+| ![Interfaz](assets/interfaz.png) | Interfaz futurista para una dashboard 💻 |  
+
+### 📖 Mini Cómic  
+![Cómic](assets/comic.png)  
+
+---
+
+## 📞 Contacto  
+📧 **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
+🔗 **GitHub:** [github.com/tuusuario](https://github.com/tuusuario)  
+🌐 **Portafolio Web:** [tuweb.com](https://tuweb.com)  
+
+---
+
+🚀 **Gracias por visitar mi portafolio. ¡Sigamos creando el futuro juntos!** 🌌  
