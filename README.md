@@ -10,7 +10,7 @@
 
 - **Correo**: [42317822@continental.edu.pe](mailto:42317822@continental.edu.pe)
 - **GitHub**: [https://edwininw.github.io/MiPortafolio.github.io/](https://edwininw.github.io/MiPortafolio.github.io/)
-- **LinkedIn**: [www.linkedin.com/in/edwin-wilson-miranda-palomino-5495b7331](www.linkedin.com/in/edwin-wilson-miranda-palomino-5495b7331)
+- **LinkedIn**: [https://www.linkedin.com/in/edwin-wilson-miranda-palomino-5495b7331/](linkedin.com/in/edwin-wilson-miranda-palomino-5495b7331)
 
 ---
 
