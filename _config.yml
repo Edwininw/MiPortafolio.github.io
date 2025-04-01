@@ -2,7 +2,7 @@
 title: "Portafolio de Edwin Miranda"
 description: "Un portafolio personal para mostrar mis proyectos y habilidades."
 url: "MiPortafolio.github.io" # Cambia esto por la URL de tu sitio
-baseurl: "https://edwininw.github.io/MiPortafolio.github.io/" # Si lo alojas en una subcarpeta, pon la ruta aquí
+baseurl: "https://edwininw.github.io/MiPortafolio" # Si lo alojas en una subcarpeta, pon la ruta aquí
 
 # Configuración de redes sociales
 twitter_username: "tuusuario"
