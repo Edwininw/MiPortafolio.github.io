@@ -8,9 +8,9 @@
 
 ¡Hola! Soy **Edwin Miranda**, estudiante de Ingeniería de Sistemas e Informática en la Universidad Continental. Apasionado por la tecnología, especialmente en el desarrollo web, bases de datos y optimización de servidores. Me encanta crear soluciones eficientes y sostenibles.
 
-- **Correo**: [edwin.miranda@example.com](mailto:edwin.miranda@example.com)
-- **GitHub**: [https://github.com/EdwinMiranda](https://github.com/EdwinMiranda)
-- **LinkedIn**: [https://www.linkedin.com/in/edwin-miranda](https://www.linkedin.com/in/edwin-miranda)
+- **Correo**: [42317822@continental.edu.pe](mailto:42317822@continental.edu.pe)
+- **GitHub**: [https://edwininw.github.io/MiPortafolio.github.io/](https://edwininw.github.io/MiPortafolio.github.io/)
+- **LinkedIn**: [https://edwininw.github.io/MiPortafolio.github.io/](https://edwininw.github.io/MiPortafolio.github.io/)
 
 ---
 
