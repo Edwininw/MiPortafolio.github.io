@@ -89,3 +89,38 @@ Si estás interesado en colaborar en algún proyecto o tienes alguna consulta, n
 [Correo electrónico](mailto:edwin.miranda@example.com)
 [GitHub](https://github.com/EdwinMiranda)
 [LinkedIn](https://www.linkedin.com/in/edwin-miranda)
+
+<script>
+  function obtenerParametroBusqueda(nombre) {
+    const url = new URL(window.location.href);
+    return url.searchParams.get(nombre);
+  }
+
+  function resaltarCoincidencias(texto) {
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+    const nodos = [];
+
+    while (walker.nextNode()) {
+      nodos.push(walker.currentNode);
+    }
+
+    for (const nodo of nodos) {
+      const contenido = nodo.nodeValue;
+      if (contenido && contenido.toLowerCase().includes(texto.toLowerCase())) {
+        const span = document.createElement("span");
+        const regex = new RegExp(`(${texto})`, "gi");
+        span.innerHTML = contenido.replace(regex, '<mark style="background-color: yellow; color: black;">$1</mark>');
+        nodo.parentNode.replaceChild(span, nodo);
+      }
+    }
+  }
+
+  const termino = obtenerParametroBusqueda('q');
+  if (termino) {
+    setTimeout(() => {
+      resaltarCoincidencias(decodeURIComponent(termino));
+    }, 500);
+  }
+</script>
+
+
